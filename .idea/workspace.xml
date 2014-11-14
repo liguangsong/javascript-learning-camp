@@ -117,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/codes/practices/section_1/practice_1/practice.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -152,7 +152,6 @@
         <option value="$PROJECT_DIR$/codes/specs/section_1/practice_3.js" />
         <option value="$PROJECT_DIR$/codes/practices/section_1/practice_3/practice.js" />
         <option value="$PROJECT_DIR$/section_1/practice_3_desc.md" />
-        <option value="$PROJECT_DIR$/codes/practices/section_1/practice_1/practice.js" />
         <option value="$PROJECT_DIR$/section_1/practice_4_answer.md" />
         <option value="$PROJECT_DIR$/codes/practices/section_1/practice_4/practice.js" />
         <option value="$PROJECT_DIR$/section_1/practice_4_desc.md" />
@@ -175,6 +174,7 @@
         <option value="$PROJECT_DIR$/codes/practices/section_1/practice_8/practice.js" />
         <option value="$PROJECT_DIR$/codes/practices/section_1/practice_7/practice.js" />
         <option value="$PROJECT_DIR$/codes/practices/section_1/practice_6/practice.js" />
+        <option value="$PROJECT_DIR$/codes/practices/section_1/practice_1/practice.js" />
       </list>
     </option>
   </component>
@@ -932,14 +932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codes/practices/section_1/practice_1/practice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="450">
@@ -984,6 +976,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codes/practices/section_1/practice_1/practice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
