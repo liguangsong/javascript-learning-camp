@@ -1,0 +1,26 @@
+{
+    "show_name": "补充数组",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "数组是js的核心概念，本课程学习如何给数组添加一个数据.",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_1/practice_1/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_1/practice_1/practice.js", "../specs/section_1/practice_1"]
+    },
+    "order": 0
+}
