@@ -1,9 +1,9 @@
- {
-    "show_name": "补充一维数组",
+{
+    "show_name": "创建二维数组",
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "数组是js的核心概念，第一个练习学习如何给数组添加一个数据.",
+    "simple_desc": "通过对一维数组的练习以及对二维数组的补充，我们需要练习学会通过描述创建一个二维数组",
     "desc_file": true,
     "answer_file": true,
 
@@ -12,7 +12,7 @@
     "files": [
         {
             "name": "practice.js",
-            "path": "/practices/section_1/practice_1/"
+            "path": "/practices/section_1/practice_5/"
         }
     ],
     "runner": {
@@ -20,7 +20,7 @@
         "path": "/practices",
         "type":"terminal",
         "src":"browser",
-        "run_files": ["../practices/section_1/practice_1/practice.js", "../specs/section_1/practice_1"]
+        "run_files": ["../practices/section_1/practice_5/practice.js", "../specs/section_1/practice_5"]
     },
-    "order": 0
+    "order": 4
 }

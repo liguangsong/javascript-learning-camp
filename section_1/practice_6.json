@@ -1,0 +1,26 @@
+{
+    "show_name": "访问二维数组",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "通过对一维数组的练习以及对二维数组的补充和创建，现在我们需要练习一下访问二维数组中的一条数据",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_1/practice_6/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_1/practice_6/practice.js", "../specs/section_1/practice_6"]
+    },
+    "order": 4
+}

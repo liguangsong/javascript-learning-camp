@@ -1,0 +1,2 @@
+- 已知二维数组stu_standard_names
+- 访问数组stu_standard_names中的'李鉴学'值
