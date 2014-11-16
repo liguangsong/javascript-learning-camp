@@ -1,0 +1,26 @@
+{
+    "show_name": "简单的if-else",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "分支中常使用的语句为if-else，本节主要练习使用最简单的if-else的使用",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_2/practice_1/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_2/practice_1/practice.js", "../specs/section_2/practice_1"]
+    },
+    "order": 0
+}

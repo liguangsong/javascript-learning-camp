@@ -1,0 +1,26 @@
+{
+    "show_name": "for简单循环",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "for循环语句即重复地执行相同的操作，现在通过求某个学生各科的平均成绩练习for循环的使用",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_2/practice_3/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_2/practice_3/practice.js", "../specs/section_2/practice_3"]
+    },
+    "order": 2
+}

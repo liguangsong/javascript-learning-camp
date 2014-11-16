@@ -1,0 +1,26 @@
+{
+    "show_name": "多种条件语句",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "上一节练习中我们学习了简单的if-else语句，这一节我们会通过练习相对复杂的if-else if 语句学习js中的if分支",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_2/practice_2/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_2/practice_2/practice.js", "../specs/section_2/practice_2"]
+    },
+    "order": 1
+}

@@ -1,0 +1,26 @@
+{
+    "show_name": "for嵌套循环",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "通过上个练习，我们简单学习了for循环的基本使用和操作，本节我们学习for循环的嵌套使用",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_2/practice_4/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_2/practice_4/practice.js", "../specs/section_2/practice_4"]
+    },
+    "order": 3
+}
