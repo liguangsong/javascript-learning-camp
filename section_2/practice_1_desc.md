@@ -1,12 +1,3 @@
-if(score > 60)
-{
-    console.log('成绩及格！');
-}
-else
-{
-    console.log('成绩不及格！');
-}
-
 - if-else条件分支语句，使用如下：
 
         var flag = true;

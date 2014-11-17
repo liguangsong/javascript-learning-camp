@@ -15,5 +15,13 @@ var stu_names = ['杨璐',
     '韩雨萌',
     '刘帅',
     '康惠雯',
-    '刘钰婷'};
-//取出成绩数组，打印所有成绩，找到做高分
+    '刘钰婷'];
+var scores = [];
+//使用for循环取出成绩数组，打印所有成绩，找到做高分
+
+//打印所有学生的分数(只包含学生分数不包含学生姓名)
+console.log(scores);
+var highest_score = scores[0];
+//使用for循环找出学生成绩的最高分
+
+console.log(highest_score);

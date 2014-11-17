@@ -1,4 +1,4 @@
-- 已知10名学生的各科成绩all_scores
-- 遍历all_scores获取到每个学生的各科成绩all_scores[i]
-- 遍历all_scores[i]获取到每个学生的每科成绩
+- 已知10名学生的各科成绩all\_scores
+- 遍历all\_scores获取到每个学生的各科成绩all\_scores[i]
+- 遍历all\_scores[i]获取到每个学生的每科成绩
 - 获取成绩的最高值

@@ -1,9 +1,9 @@
 {
-    "show_name": "复杂数据for-if",
+    "show_name": "并列for循环",
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "根据数组中的学生姓名，找出相对应的成绩，并打印出特定学生成绩的详情",
+    "simple_desc": "除了for循环的嵌套使用，还有for循环的并列使用，即使用两个或者多个for循环，每个for之间是独立的。",
     "desc_file": true,
     "answer_file": true,
 
@@ -12,7 +12,7 @@
     "files": [
         {
             "name": "practice.js",
-            "path": "/practices/section_3/practice_4/"
+            "path": "/practices/section_3/practice_5/"
         }
     ],
     "runner": {
@@ -20,7 +20,7 @@
         "path": "/practices",
         "type":"terminal",
         "src":"browser",
-        "run_files": ["../practices/section_3/practice_4/practice.js", "../specs/section_3/practice_4"]
+        "run_files": ["../practices/section_3/practice_5/practice.js", "../specs/section_3/practice_5"]
     },
-    "order": 3
+    "order": 4
 }
