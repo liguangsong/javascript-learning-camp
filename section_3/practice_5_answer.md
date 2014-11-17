@@ -12,6 +12,6 @@
         {
             if(highest_score < scores[j])
             {
-                highest_score = scores[j]
+                highest_score = scores[j];
             }
         }
