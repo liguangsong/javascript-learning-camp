@@ -1,0 +1,26 @@
+{
+    "show_name": "for-if嵌套使用",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "分支和循环经常嵌套在一起使用，在遍历某组数据时，有时会根据不同的条件选择做不同的操作，这时，我们需要for和if的嵌套使用",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_3/practice_1/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_3/practice_1/practice.js", "../specs/section_3/practice_1"]
+    },
+    "order": 0
+}
