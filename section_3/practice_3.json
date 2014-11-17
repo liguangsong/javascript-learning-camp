@@ -1,0 +1,26 @@
+{
+    "show_name": "求成绩最高分",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "当我们遇见相对复杂的数据时，我们使用for循环的嵌套把数据拆分到最小单位并访问，若只获取满足条件的数据，那么在for循环里需要嵌套if语句，本节，我们练习for-if的嵌套",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_3/practice_3/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_3/practice_3/practice.js", "../specs/section_3/practice_3"]
+    },
+    "order": 2
+}
