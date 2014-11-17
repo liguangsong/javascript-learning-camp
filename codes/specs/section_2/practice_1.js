@@ -1,5 +1,5 @@
 
-describe('practice-2-2', function () {
+describe('practice-2-1', function () {
 
     it("print string 成绩及格！", function () {
         console.dir(logs[0]);
