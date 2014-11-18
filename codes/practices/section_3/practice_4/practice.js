@@ -11,12 +11,6 @@ var stu_scores = {'杨璐':131,
 var stu_names = ['刘帅','康惠雯','沙龙逸','王雪','杨璐','李丽'];
 var stu_names_scores = {};
 //获取数组stu_names中学生的成绩
-for(var i = 0; i < stu_names.length; i ++)
-{
-    if(stu_scores[stu_names[i]] != undefined)
-    {
-        stu_names_scores[stu_names[i]] = stu_scores[stu_names[i]];
-    }
-}
+
 //打印哈希数组stu_names_scores中学生成绩
 console.log(stu_names_scores);
