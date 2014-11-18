@@ -8,7 +8,7 @@
         {
             console.log('成绩良好！');
         }
-        else if(score > 60)
+        else if(score > 90)
         {
             console.log('成绩及格！');
         }

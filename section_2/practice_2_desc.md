@@ -4,7 +4,7 @@
 
         大于130              console.log打印  '成绩优异！'
         大于120且小于等于130   console.log打印  '成绩良好！'
-        大于60且小于等于120    console.log打印  '成绩及格！'
+        大于90且小于等于120    console.log打印  '成绩及格！'
         否则                  console.log打印  '成绩不及格！'
 
 - 使用if-else if...else根据右边控制台的提示

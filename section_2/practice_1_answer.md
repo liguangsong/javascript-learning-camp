@@ -1,6 +1,6 @@
 - 在第四行添加以下代码：
 
-        if(score > 60)
+        if(score > 90)
         {
             console.log('成绩及格！');
         }
