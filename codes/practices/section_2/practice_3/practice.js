@@ -6,4 +6,4 @@ var sum_scores = 0;
 
 //求三科的平均分数
 var average_score = sum_scores / scores.length;
-console.log(average_score);
+console.log('三科的平均成绩为：'+average_score);

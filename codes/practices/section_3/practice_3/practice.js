@@ -13,4 +13,4 @@ var highest_score = all_scores[0][0];
 //使用for循环求这10名学生中所有科目的最高分
 
 //打印这10名学生所有科目的最高分
-console.log(highest_score);
+console.log('这10名学生所有的最高分为：'+highest_score);

@@ -15,4 +15,4 @@ var sum_scores = 0;
 
 //求这10名同学每科的平均分数
 var average_score = sum_scores / (all_scores.length * 3);
-console.log(average_score);
+console.log('这10名学生的平均成绩为：'+average_score);

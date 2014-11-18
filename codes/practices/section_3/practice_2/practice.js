@@ -6,6 +6,6 @@ var count_C = 0;//存储成绩在130分以下的学生的个数
 //添加for循环语句完成代码
 
 //打印三个分数段学生的个数，请勿删除本行
-console.log(count_A);
-console.log(count_B);
-console.log(count_C);
+console.log('140分以上的学生的个数：'+count_A);
+console.log('130～140分之间的学生的个数：'+count_B);
+console.log('130分以下的学生的个数：'+count_C);

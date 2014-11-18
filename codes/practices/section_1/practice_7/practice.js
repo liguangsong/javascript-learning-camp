@@ -10,4 +10,4 @@ var stu_score = {'杨璐':131,
         '刘钰婷':115};
 
 //打印添加的数据
-console.log(stu_score['林世博']);
+console.log('林世博的成绩为：'+stu_score['林世博']);

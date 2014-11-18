@@ -10,4 +10,4 @@ var stu_score = {'杨璐':131,
 //查询'王雪'的数据
 var score;
 //打印添加的数据
-console.log(score);
+console.log('王雪的成绩为：'+score);
