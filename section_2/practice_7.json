@@ -1,0 +1,26 @@
+{
+    "show_name": "for哈希数组二",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "使用哈希数组练习for循环，通过使用并列for循环更进一步学习掌握for循环",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_2/practice_7/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_2/practice_7/practice.js", "../specs/section_2/practice_7"]
+    },
+    "order": 6
+}

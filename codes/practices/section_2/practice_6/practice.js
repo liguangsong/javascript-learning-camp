@@ -10,8 +10,5 @@ var all_scores = {'杨璐':131,
     '林世博':116};
 var stu_names = ['杨璐','王雪','韩林霖','沙龙逸','李鉴学','韩雨萌','刘帅','康惠雯','刘钰婷','林世博'];
 //打印所有的学生的成绩(只打印成绩)
-for(var i = 0; i < stu_names.length; i ++)
-{
-    console.log(stu_names[i] + '的成绩是：' + all_scores[stu_names[i]] + '分');
-}
+
 
