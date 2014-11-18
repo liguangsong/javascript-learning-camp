@@ -12,7 +12,7 @@
 
 - 2.第二段
 
-        if(highest_score < all_scores['李鉴学'][2]);
+        if(highest_score < all_scores['李鉴学'][2])
         {
             highest_score = all_scores['李鉴学'][2];
         }

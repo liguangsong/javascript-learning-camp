@@ -1,0 +1,26 @@
+{
+    "show_name": "for哈希数组",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "使用哈希数组练习for循环，遍历哈希数组中的数据",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_2/practice_6/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_2/practice_6/practice.js", "../specs/section_2/practice_6"]
+    },
+    "order": 5
+}
