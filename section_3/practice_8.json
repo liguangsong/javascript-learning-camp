@@ -1,0 +1,26 @@
+{
+    "show_name": "for循环嵌套",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "使用for循环嵌套求哈希数组中要求学生的平均值。",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_3/practice_8/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_3/practice_8/practice.js", "../specs/section_3/practice_8"]
+    },
+    "order": 7
+}

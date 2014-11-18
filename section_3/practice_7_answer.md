@@ -1,4 +1,4 @@
-- 在第14行添加如下代码：
+- 在第15行添加如下代码：
 
         for(var i = 0; i < stu_names.length; i ++)
         {
