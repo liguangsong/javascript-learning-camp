@@ -16,6 +16,6 @@ var scores_C_count = 0;//统计<130的成绩的个数
 //完成代码使得正确统计各分数段的分数个数
 
 //打印个分数段的分数
-console.log(scores_A_count);
-console.log(scores_B_count);
-console.log(scores_C_count);
+console.log('所有分数中>140分的个数：'+scores_A_count);
+console.log('介于130到140之间的成绩（包括130和140）的个数：'+scores_B_count);
+console.log('<130的成绩的个数：'+scores_C_count);

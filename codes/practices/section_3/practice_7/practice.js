@@ -12,24 +12,3 @@ var all_scores = {'杨璐':[131,143,144],
 var stu_names = ['杨璐','王雪','韩林霖','沙龙逸','李鉴学','韩雨萌','刘帅','康惠雯','刘钰婷','林世博'];
 var stu_name = '李鉴学';
 //找出'李鉴学'是第几个学生 查询'李鉴学'的三科成绩
-for(var i = 0; i < stu_names.length; i ++)
-{
-    if(stu_names[i] == stu_name)
-    {
-        for(var j = 0; j < all_scores[stu_name].length; j ++)
-        {
-            if(j === 0)
-            {
-                console.log('第'+i+'个学生的语文成绩是：'+all_scores[stu_name][j]+'分');
-            }
-            if(j === 1)
-            {
-                console.log('第'+i+'个学生的数学成绩是：'+all_scores[stu_name][j]+'分');
-            }
-            if(j === 2)
-            {
-                console.log('第'+i+'个学生的英语成绩是：'+all_scores[stu_name][j]+'分');
-            }
-        }
-    }
-}

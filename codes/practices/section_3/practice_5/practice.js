@@ -18,10 +18,9 @@ var stu_names = ['杨璐',
     '刘钰婷'];
 var scores = [];
 //使用for循环取出成绩数组，打印所有成绩，找到做高分
+//获取所有学生的分数(只包含学生分数不包含学生姓名)存到scores中
 
-//打印所有学生的分数(只包含学生分数不包含学生姓名)
-console.log(scores);
 var highest_score = scores[0];
 //使用for循环找出学生成绩的最高分
 
-console.log(highest_score);
+console.log('学生成绩的最高分:'+highest_score);
