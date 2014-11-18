@@ -1,0 +1,26 @@
+{
+    "show_name": "混合嵌套for-if",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "多层混合嵌套for-if使用，练习使用复杂的分支与循环。",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_3/practice_7/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_3/practice_7/practice.js", "../specs/section_3/practice_7"]
+    },
+    "order": 6
+}

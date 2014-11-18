@@ -1,7 +1,7 @@
 
-describe('practice-3-5', function () {
+describe('practice-3-6', function () {
 
-    it("print array of scores ", function () {
+    it("print num of scores paragraph ", function () {
         console.dir(logs);
 
         expect(logs[0]).toBe(8);
