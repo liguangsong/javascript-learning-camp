@@ -1,3 +1,1 @@
-- 已知10名学生的成绩数组为：all\_math\_scores，找出这10名学生中的最高成绩赋值给变量highest\_score，使打印结果为：
-
-        最高成绩为：148
+- 已知10名学生的成绩数组为：all\_math\_scores，找出这10名学生中的最高成绩赋值给变量highest\_score

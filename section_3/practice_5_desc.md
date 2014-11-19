@@ -4,6 +4,4 @@
         //给数组scores添加数据
         scores.push('xxx');
 
-- 遍历成绩数组scores，获取最高成绩，赋值给变量highest\_score，使打印结果为：
-
-        学生成绩的最高分:131
+- 遍历成绩数组scores，获取最高成绩，赋值给变量highest\_score

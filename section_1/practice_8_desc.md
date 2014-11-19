@@ -6,6 +6,4 @@
         var data = age['Jack'];
         console.log(data);
 
-- 在哈希表stu\_score中查询'王雪'的成绩，赋值给变量score，使打印结果为：
-
-        王雪的成绩为：131
+- 在哈希表stu\_score中查询'王雪'的成绩，赋值给变量score
