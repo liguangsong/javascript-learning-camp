@@ -6,15 +6,15 @@
             {
                 for(var j = 0; j < all_scores[stu_name].length; j ++)
                 {
-                    if(j == 0)
+                    if(j === 0)
                     {
                         console.log(stu_name+'是第'+i+'个学生，他的语文成绩为：'+all_scores[stu_name][j]);
                     }
-                    if(j == 1)
+                    if(j === 1)
                     {
                         console.log(stu_name+'是第'+i+'个学生，他的数学成绩为：'+all_scores[stu_name][j]);
                     }
-                    if(j == 2)
+                    if(j === 2)
                     {
                         console.log(stu_name+'是第'+i+'个学生，他的英语成绩为：'+all_scores[stu_name][j]);
                     }
