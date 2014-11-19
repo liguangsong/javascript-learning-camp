@@ -1,0 +1,26 @@
+{
+    "show_name": "读取平均值",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "将哈希数组中学生的各科成绩读取出来，求平均值，并按照合理的语句展示每个学生的成绩",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_4/practice_4/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_4/practice_4/practice.js", "../specs/section_4/practice_4"]
+    },
+    "order": 3
+}
