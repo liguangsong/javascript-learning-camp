@@ -1,9 +1,9 @@
 {
-    "show_name": "for哈希数组",
+    "show_name": "并列if-else",
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "使用哈希数组练习for循环，遍历哈希数组中的数据",
+    "simple_desc": "通过使用简单数据练习if-else，我们掌握了if-else的基本使用方法，现在我们使用哈希数组练习if-else使用",
     "desc_file": true,
     "answer_file": true,
 
@@ -22,5 +22,5 @@
         "src":"browser",
         "run_files": ["../practices/section_2/practice_6/practice.js", "../specs/section_2/practice_6"]
     },
-    "order": 4
+    "order": 5
 }

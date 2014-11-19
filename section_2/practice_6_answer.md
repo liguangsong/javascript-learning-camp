@@ -1,6 +1,18 @@
-- 在第13行添加如下代码：
+- 根据注释要求，分别在相应的位置添加如下两段代码：
+- 1.第一段
 
-        for(var i = 0; i < stu_names.length; i ++)
+        if(all_scores[stu_name][0] > all_scores[stu_name][1])
         {
-            console.log(all_scores[stu_names[i]]);
+            highest_score = all_scores[stu_name][0];
+        }
+        else
+        {
+            highest_score = all_scores[stu_name][1];
+        }
+
+- 2.第二段
+
+        if(highest_score < all_scores[stu_name][2])
+        {
+            highest_score = all_scores[stu_name][2];
         }
