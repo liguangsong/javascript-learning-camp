@@ -2,7 +2,7 @@
 
         for(var i = 0 ; i < all_scores.length; i ++)
         {
-            for(var j = 0; j < 3; j ++)
+            for(var j = 0; j < all_scores[i].length; j ++)
             {
                 sum_scores += all_scores[i][j];
             }

@@ -1,0 +1,26 @@
+{
+    "show_name": "HelloWorld",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "拼接字符串：将两个字符串拼接成一个字符串，展示给用户",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_4/practice_1/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_4/practice_1/practice.js", "../specs/section_4/practice_1"]
+    },
+    "order": 0
+}
