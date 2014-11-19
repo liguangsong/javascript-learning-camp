@@ -1,2 +1,2 @@
-- 已知学生成绩的哈希数组为all\_scores和学生姓名数组stu\_names
-- 通过遍历数组，将每个人得成绩打印出来，打印的格式为：131
+- 已知学生成绩的哈希数组为all\_scores，学生姓名数组为stu\_names
+- 通过遍历数组stu\_names，使用console.log()打印每个人的成绩
