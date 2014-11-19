@@ -1,7 +1,7 @@
 
 describe('practice-2-5', function () {
 
-    it("print string all score ！", function () {
+    it("print string all score 。！", function () {
         console.dir(logs);
         expect(logs[0]).toBe(131);
         expect(logs[1]).toBe(131);
