@@ -1,0 +1,26 @@
+{
+    "show_name": "读取部分成绩(二)",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "根据学生姓名的数组，从哈希数组读取学生的成绩并展示，将读取到学生成绩信息以及各科的平均成绩连接成一整个字符串并打印出来",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_4/practice_8/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_4/practice_8/practice.js", "../specs/section_4/practice_8"]
+    },
+    "order": 6
+}
