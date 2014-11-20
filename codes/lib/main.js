@@ -39,7 +39,8 @@ require(['jquery', 'underscore', 'console'], function () {
 //        console.log('document on ready');
 
         window.onerror = function() {
-            console.log(arguments[0]);
+            var error = "ERROR:"+arguments[2] + '[' + arguments[3] +']' +arguments[0];
+            console.log(error);
         };
 
         if (parent.load_files) {
@@ -48,7 +49,6 @@ require(['jquery', 'underscore', 'console'], function () {
 //        alert('please execute spec with runner function by load_files params');
     });
 });
-
 
 
 
