@@ -12,7 +12,7 @@
     "files": [
         {
             "name": "practice.js",
-            "path": "/practices/section_5/practice_6/"
+            "path": "/practices/section_5/practice_7/"
         }
     ],
     "runner": {
@@ -20,7 +20,7 @@
         "path": "/practices",
         "type":"terminal",
         "src":"browser",
-        "run_files": ["../practices/section_5/practice_6/practice.js", "../specs/section_5/practice_6"]
+        "run_files": ["../practices/section_5/practice_7/practice.js", "../specs/section_5/practice_7"]
     },
     "order": 6
 }
