@@ -1,0 +1,26 @@
+{
+    "show_name": "补充对象",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "第一个练习学习如何给一个对象添加一个键值对.",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_5/practice_1/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_5/practice_1/practice.js", "../specs/section_5/practice_1"]
+    },
+    "order": 0
+}

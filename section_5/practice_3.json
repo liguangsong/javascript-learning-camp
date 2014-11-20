@@ -1,0 +1,26 @@
+{
+    "show_name": "查询对象数据",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "本节我们练习对象的查找方法，根据已知对象，查找对象中某个键对应的值",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_5/practice_3/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_5/practice_3/practice.js", "../specs/section_5/practice_3"]
+    },
+    "order": 2
+}
