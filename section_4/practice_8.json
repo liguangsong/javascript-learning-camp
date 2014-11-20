@@ -1,5 +1,5 @@
 {
-    "show_name": "读取部分成绩(二)",
+    "show_name": "读部分成绩(三)",
     "type": "normal",
     "point": 100,
 
@@ -22,5 +22,5 @@
         "src":"browser",
         "run_files": ["../practices/section_4/practice_8/practice.js", "../specs/section_4/practice_8"]
     },
-    "order": 6
+    "order": 7
 }
