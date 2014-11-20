@@ -1,0 +1,26 @@
+{
+    "show_name": "创建复杂对象",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "通过练习给复杂对象添加数据，我们简单了解了复杂对象，本节我们练习如何创建一个复杂对象",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_5/practice_5/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_5/practice_5/practice.js", "../specs/section_5/practice_5"]
+    },
+    "order": 4
+}

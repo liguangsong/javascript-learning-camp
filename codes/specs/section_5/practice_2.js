@@ -1,6 +1,6 @@
 describe('practice-5-2', function () {
 
-    it("print english score is 144", function () {
+    it("print all keys and all value", function () {
         console.dir(logs);
         expect(logs[0]).toBe("name=>王雪");
         expect(logs[1]).toBe("age=>20");

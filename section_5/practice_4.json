@@ -1,0 +1,26 @@
+{
+    "show_name": "补充复杂对象",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "本节我们练习给复杂的对象添加一组键值对",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_5/practice_4/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_5/practice_4/practice.js", "../specs/section_5/practice_4"]
+    },
+    "order": 3
+}

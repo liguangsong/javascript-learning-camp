@@ -1,1 +1,1 @@
-- 根据学生成绩哈希表all\_scores和学生姓名数组stu\_names，找到变量stu\_name，打印此学生的各科成绩
+- 通过遍历数组stu\_names找到stu\_name，然后遍历学生成绩哈希表all\_scores中此学生的三科成绩并打印(分别打印各科成绩)
