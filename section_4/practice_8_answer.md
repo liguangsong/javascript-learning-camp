@@ -11,7 +11,7 @@
             str_stu_score_info = str_stu_score_info + '\n' + stu_names[i] + '\t' + '语文：'+all_scores[stu_names[i]][0]+';'+'数学：'+all_scores[stu_names[i]][1]+';'+'英语：'+all_scores[stu_names[i]][2];
             chinese_sum_score += all_scores[stu_names[i]][0];
             math_sum_score += all_scores[stu_names[i]][1];
-            english_sum_score += all_scores[stu_names[i]][2]
+            english_sum_score += all_scores[stu_names[i]][2];
         }
         str_stu_score_info = str_stu_score_info + '\n' + '平均成绩' + '\t' + '语文：'+ chinese_sum_score/3 +';'+'数学：'+math_sum_score/3+';'+'英语：'+english_sum_score/3;
         //打印这几名学生的成绩详情
