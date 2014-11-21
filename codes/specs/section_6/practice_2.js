@@ -1,6 +1,6 @@
 describe('practice-6-2', function () {
 
-    it("use get_product_of_two_num(3,5) is 15 ", function () {
+    it("print string 下面是某班部分学生的成绩：... ", function () {
         var stu_scores = [{name:'王雪雪',chinese:131,math:136,english:144},
             {name:'杨璐璐',chinese:131,math:129,english:144},
             {name:'韩林霖',chinese:126,math:139,english:142},

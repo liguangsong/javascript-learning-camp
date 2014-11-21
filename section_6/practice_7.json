@@ -1,0 +1,26 @@
+{
+    "show_name": "函数变量作用域",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "函数变量的作用域，指变量的作用范围，下面通过打印变量名相同，作用域不同的变量，理解变量的作用域",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_6/practice_7/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_6/practice_6/practice.js", "../specs/section_6/practice_7"]
+    },
+    "order": 5
+}

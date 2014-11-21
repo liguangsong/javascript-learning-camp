@@ -1,0 +1,26 @@
+{
+    "show_name": "函数调用(一)",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "虽然函数声明并创建了，但是如果不调用，依旧不能执行函数体中的代码，所以本练习训练函数的调用",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_6/practice_3/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_6/practice_3/practice.js", "../specs/section_6/practice_3"]
+    },
+    "order": 2
+}

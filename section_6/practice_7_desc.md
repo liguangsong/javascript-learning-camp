@@ -1,0 +1,2 @@
+- 在函数print\_varible和函数test\print\_varible中，添加打印变量str\_value的语句
+- 查看效果，理解函数变量的作用域
