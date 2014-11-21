@@ -1,6 +1,6 @@
-describe('practice-5-6', function () {
+describe('practice-5-7', function () {
 
-    it("print 杨璐的数学成绩为：129", function () {
+    it("print 王雪的成绩为:语文->131数学->136英语->144", function () {
         console.dir(logs);
         expect(logs[0]).toBe("王雪的成绩为:语文->131数学->136英语->144");
         expect(logs[1]).toBe("杨璐的成绩为:语文->131数学->129英语->144");

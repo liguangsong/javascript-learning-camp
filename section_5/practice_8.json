@@ -1,0 +1,26 @@
+{
+    "show_name": "求学生平均分",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "本节练习查询学生成绩，并将所有学生成绩以及每科平均分拼接成一整个字符串，打印成绩",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_5/practice_8/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_5/practice_8/practice.js", "../specs/section_5/practice_8"]
+    },
+    "order": 6
+}
