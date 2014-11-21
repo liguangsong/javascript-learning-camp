@@ -1,0 +1,26 @@
+{
+    "show_name": "函数创建(二)",
+    "type": "normal",
+    "point": 100,
+
+    "simple_desc": "创建一个函数，传入一个学生成绩数组，使可以实现打印所有学生的成绩",
+    "desc_file": true,
+    "answer_file": true,
+
+    "project_dir": "/practices",
+    "specs_dir": "/specs",
+    "files": [
+        {
+            "name": "practice.js",
+            "path": "/practices/section_6/practice_2/"
+        }
+    ],
+    "runner": {
+        "name": "challenge.html",
+        "path": "/practices",
+        "type":"terminal",
+        "src":"browser",
+        "run_files": ["../practices/section_6/practice_2/practice.js", "../specs/section_6/practice_2"]
+    },
+    "order": 1
+}
