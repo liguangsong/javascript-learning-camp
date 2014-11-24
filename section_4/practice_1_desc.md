@@ -2,4 +2,4 @@
 
         'Hi'+'LiMing'
 
-- 将'Hello'和'World'两个人字符串拼接成一个字符串'HelloWorld'
+- 将'Hello'和'World'两个字符串拼接成一个字符串'HelloWorld'
