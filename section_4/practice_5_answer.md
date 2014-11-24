@@ -8,15 +8,15 @@
                 {
                     if(j === 0)
                     {
-                        console.log(stu_name+'是第'+i+'个学生，他的语文成绩为：'+all_scores[stu_name][j]);
+                        console.log('第'+i+'个学生'+stu_name+'的语文成绩为'+all_scores[stu_name][j]);
                     }
                     if(j === 1)
                     {
-                        console.log(stu_name+'是第'+i+'个学生，他的数学成绩为：'+all_scores[stu_name][j]);
+                        console.log('第'+i+'个学生'+stu_name+'的数学成绩为'+all_scores[stu_name][j]);
                     }
                     if(j === 2)
                     {
-                        console.log(stu_name+'是第'+i+'个学生，他的英语成绩为：'+all_scores[stu_name][j]);
+                        console.log('第'+i+'个学生'+stu_name+'的英语成绩为'+all_scores[stu_name][j]);
                     }
                 }
             }

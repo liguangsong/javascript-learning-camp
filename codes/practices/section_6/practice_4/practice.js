@@ -8,6 +8,6 @@ function get_stu_score(stu_score)
 }
 
 //通过调用函数，使输出结果为
-var str_stu_scores = ;
+var str_stu_scores = '下面是部分学生的成绩'+'\n'+get_stu_score(stu_wang_score)+'\n'+get_stu_score(stu_yang_score);
 //打印学生成绩，请勿删除本行
 console.log(str_stu_scores);
