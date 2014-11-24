@@ -1,1 +1,2 @@
-- 通过遍历数组stu\_names找到stu\_name，然后遍历学生成绩哈希表all\_scores中此学生的三科成绩并打印(逐个打印各科成绩，也就是每次console.log打印一科成绩)
+- 通过遍历数组stu\_names找到stu\_name
+- 遍历学生成绩哈希表all\_scores中此学生的三科成绩并打印(逐个打印各科成绩，也就是每次console.log打印一科成绩)
