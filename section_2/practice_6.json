@@ -3,7 +3,7 @@
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "通过使用简单数据练习if-else，我们掌握了if-else的基本使用方法，现在我们使用哈希数组练习if-else使用",
+    "simple_desc": "通过使用简单数据练习if-else，我们掌握了if-else的基本使用方法，现在我们使用哈希表练习if-else使用",
     "desc_file": true,
     "answer_file": true,
 

@@ -3,7 +3,7 @@
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "根据学生姓名的数组，从哈希数组读取学生的成绩并展示，分别打印每一条数据",
+    "simple_desc": "根据学生姓名的数组，从哈希表读取学生的成绩并展示，分别打印每一条数据",
     "desc_file": true,
     "answer_file": true,
 

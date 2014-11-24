@@ -1,9 +1,9 @@
 {
-    "show_name": "哈希数组拼接",
+    "show_name": "哈希表拼接",
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "将哈希数组中数据读取出来，并将每个字符串拼接到一起，展示给用户",
+    "simple_desc": "将哈希表中数据读取出来，并将每个字符串拼接到一起，展示给用户",
     "desc_file": true,
     "answer_file": true,
 

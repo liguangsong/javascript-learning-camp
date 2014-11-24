@@ -1,9 +1,9 @@
 {
-    "show_name": "哈希数组(二)",
+    "show_name": "哈希表(二)",
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "使用哈希数组练习for循环，通过使用并列for循环更进一步学习掌握for循环",
+    "simple_desc": "使用哈希表练习for循环，通过使用并列for循环更进一步学习掌握for循环",
     "desc_file": true,
     "answer_file": true,
 

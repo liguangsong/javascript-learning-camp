@@ -1,9 +1,9 @@
 {
-    "show_name": "哈希数组(一)",
+    "show_name": "哈希表(一)",
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "使用哈希数组练习for循环，遍历哈希数组中的数据",
+    "simple_desc": "使用哈希表练习for循环，遍历哈希表中的数据",
     "desc_file": true,
     "answer_file": true,
 
