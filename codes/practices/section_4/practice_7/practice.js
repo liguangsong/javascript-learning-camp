@@ -11,7 +11,7 @@ var all_scores = {'杨璐':[131,143,144],
 //存储所有学生的姓名.
 var stu_names = ['沙龙逸','刘钰婷','韩林霖'];
 //查询数组stu_names中学生的成绩，并将他们的成绩详情拼接成一整个字符串，并打印出来
-var str_stu_score_info = '下面是部分学生的成绩详情：';
+var str_stu_score_info = '下面是部分学生的成绩详情';
 
 //打印这几名学生的成绩详情
 console.log(str_stu_score_info);
