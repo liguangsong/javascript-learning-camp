@@ -1,7 +1,7 @@
 - if-else条件分支语句，使用如下：
 
-        var flag = true;
-        if(flag == true)
+        var flag = false;
+        if(flag === true)
         {
             console.log("True");
         }
