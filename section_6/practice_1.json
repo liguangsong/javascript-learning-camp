@@ -3,7 +3,7 @@
     "type": "normal",
     "point": 100,
 
-    "simple_desc": "通过函数的声明创建一个函数，js中函数的声明以关键字function开始，下面联系函数的创建",
+    "simple_desc": "通过函数的声明创建一个函数，js中函数的声明以关键字function开始，下面练习函数的创建",
     "desc_file": true,
     "answer_file": true,
 
