@@ -1,2 +1,2 @@
 - 根据数组与对象的知识，查询数组stu\_scores中'杨璐'的数学成绩
-- 提示：先找到name为'杨璐'的对象A，然后访问A的score键对应的对象B，接着找到B中math键对应的值，赋值给变量yang\_math\_score
+- 提示：先找到name为'杨璐'的对象A，然后访问A的score键对应的对象B，接着找到B中键math对应的值C，将C赋值给变量yang\_math\_score

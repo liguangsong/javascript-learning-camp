@@ -1,1 +1,1 @@
-- 获取对象stu\_info中math\_score键所对应的值，并赋值给变量num\_math\_score
+- 获取对象stu\_info中键math\_score所对应的值A，将A赋值给变量num\_math\_score

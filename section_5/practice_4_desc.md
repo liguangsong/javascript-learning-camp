@@ -1,1 +1,1 @@
-- 变量stu\_scores中的键score对应的对象A，现需要给对象A添加一组键值对，键为：english，值为：144
+- 在变量stu\_scores中，键score对应的对象为A，现需要给对象A添加一组键值对，键为：english，值为：144
