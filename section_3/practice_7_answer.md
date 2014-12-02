@@ -2,7 +2,7 @@
 
         for(var i = 0; i < stu_names.length; i ++)
         {
-              if(stu_names[i] == stu_name)
+              if(stu_names[i] === stu_name)
               {
                      for(var j = 0; j < all_scores[stu_name].length; j ++)
                      {
