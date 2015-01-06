@@ -20,7 +20,7 @@
         "path": "/practices",
         "type":"terminal",
         "src":"browser",
-        "run_files": ["../practices/section_1/practice_8/practice.js", "../specs/section_1/practice_8"]
+        "run_files": ["../practices/section_1/practice_8/practice.js", "../specs/section_1/practice_8.js"]
     },
     "order": 7
 }
